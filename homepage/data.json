@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "judul": "Atomic Habits",
+    "penulis": "James Clear",
+    "genre": "Self Improvement",
+    "tahun": 2018,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 2,
+    "judul": "The Power of Habit",
+    "penulis": "Charles Duhigg",
+    "genre": "Self Improvement",
+    "tahun": 2012,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 3,
+    "judul": "Mindset",
+    "penulis": "Carol S. Dweck",
+    "genre": "Self Improvement",
+    "tahun": 2006,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 4,
+    "judul": "Deep Work",
+    "penulis": "Cal Newport",
+    "genre": "Self Improvement",
+    "tahun": 2016,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 5,
+    "judul": "Grit",
+    "penulis": "Angela Duckworth",
+    "genre": "Self Improvement",
+    "tahun": 2016,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 6,
+    "judul": "Think and Grow Rich",
+    "penulis": "Napoleon Hill",
+    "genre": "Self Improvement",
+    "tahun": 1937,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 7,
+    "judul": "The 7 Habits of Highly Effective People",
+    "penulis": "Stephen R. Covey",
+    "genre": "Self Improvement",
+    "tahun": 1989,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 8,
+    "judul": "How to Win Friends & Influence People",
+    "penulis": "Dale Carnegie",
+    "genre": "Self Improvement",
+    "tahun": 1936,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 9,
+    "judul": "The Subtle Art of Not Giving a F*ck",
+    "penulis": "Mark Manson",
+    "genre": "Self Improvement",
+    "tahun": 2016,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 10,
+    "judul": "Rich Dad Poor Dad",
+    "penulis": "Robert T. Kiyosaki",
+    "genre": "Self Improvement",
+    "tahun": 1997,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 11,
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea Hirata",
+    "genre": "Novel",
+    "tahun": 2005,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 12,
+    "judul": "Bumi",
+    "penulis": "Tere Liye",
+    "genre": "Novel",
+    "tahun": 2014,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 13,
+    "judul": "Dilan 1990",
+    "penulis": "Pidi Baiq",
+    "genre": "Novel",
+    "tahun": 2014,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 14,
+    "judul": "Perahu Kertas",
+    "penulis": "Dee Lestari",
+    "genre": "Novel",
+    "tahun": 2009,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 15,
+    "judul": "Negeri 5 Menara",
+    "penulis": "Ahmad Fuadi",
+    "genre": "Novel",
+    "tahun": 2009,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 16,
+    "judul": "Ayat-Ayat Cinta",
+    "penulis": "Habiburrahman El Shirazy",
+    "genre": "Novel",
+    "tahun": 2004,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 17,
+    "judul": "Hujan",
+    "penulis": "Tere Liye",
+    "genre": "Novel",
+    "tahun": 2016,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 18,
+    "judul": "Ronggeng Dukuh Paruk",
+    "penulis": "Ahmad Tohari",
+    "genre": "Novel",
+    "tahun": 1982,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 19,
+    "judul": "Supernova",
+    "penulis": "Dee Lestari",
+    "genre": "Novel",
+    "tahun": 2001,
+    "cover": "https://via.placeholder.com/300x200"
+  },
+  {
+    "id": 20,
+    "judul": "Orang-Orang Biasa",
+    "penulis": "Andrea Hirata",
+    "genre": "Novel",
+    "tahun": 2019,
+    "cover": "https://via.placeholder.com/300x200"
+  }
+]

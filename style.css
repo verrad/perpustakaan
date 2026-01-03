@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("wallpaper-pink.jpg");
+  background-size: cover;
+}
+/* Navbar */
+.navbar {
+  margin: 0;
+  padding: 20px;
+  color: rgb(181, 76, 148);
+  height: 70px;
+  font-size: 30px;
+  font-weight: bold;
+  padding-bottom: 0px;
+}
+.div-navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.div-navbar p {
+  color: rgb(255, 208, 0);
+}
+.div-navbar p span {
+  font-style: italic;
+  color: blueviolet;
+}
+.div-navbar ul {
+  display: flex;
+  gap: 60px;
+}
+.div-navbar ul li {
+  list-style-type: none;
+}
+.div-navbar ul li a {
+  color: rgb(181, 76, 148);
+  text-decoration: none;
+  transition: 0.3s;
+}
+.div-navbar ul li a:hover {
+  text-decoration: underline;
+  color: rgb(112, 56, 94);
+}
+/* Hero */
+.hero {
+  display: flex;
+  justify-content: space-between;
+}
+.hero-p {
+  padding-top: 60px;
+  margin: 80px auto;
+  font-size: 25px;
+  width: 600px;
+}
+.hero-p p {
+  margin-top: 10px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.hero h1 {
+  color: rgb(255, 255, 98);
+}
+
+.hero div img {
+  width: 650px;
+  height: 650px;
+  margin-right: 10px;
+}
+
+.hero #learnmore {
+  background-color: rgb(255, 0, 179);
+  text-decoration: none;
+  border-radius: 50px;
+  padding: 10px;
+  color: white;
+}
+
+/* Footer */
+
+footer p {
+  display: flex;
+  justify-content: end;
+  text-align: end;
+  color: white;
+}

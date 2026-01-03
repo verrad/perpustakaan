@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <title>Home</title>
   </head>
   <body>
     <!-- navbar -->
@@ -12,7 +13,12 @@
         <p>Perpustakaan <span>online</span></p>
         <ul>
           <li><a href="beranda">Beranda</a></li>
-          <li><a href="kategori">Kategori</a></li>
+          <select id="genre" name="genre">
+            <option value="all">All</option>
+            <option value="selfImprovement">Self improvement</option>
+            <option value="novel">Novel</option>
+          </select>
+
           <li><a href="tentangkami">Tentang kami</a></li>
         </ul>
       </div>
@@ -30,5 +36,6 @@
         &copy; 2025 Perpustakaan Online. Farrel Radyandry & Adriansyah Isnan
       </p>
     </footer>
+    <script src="index.js"></script>
   </body>
 </html>
