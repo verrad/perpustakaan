@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+}
+
+.navbarpage {
+  background-color: azure;
+  font-size: 25px;
+  padding: 10px;
+  box-shadow: 7px 7px 12px rgba(0, 0, 0, 0.3);
+}
+.div-navbarpage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.div-navbarpage p {
+  color: rgb(255, 208, 0);
+}
+
+.div-navbarpage p span {
+  font-style: italic;
+  color: blueviolet;
+}
+.div-navbarpage ul {
+  display: flex;
+  gap: 60px;
+  margin-right: 20px;
+}
+
+.div-navbarpage ul li {
+  list-style: none;
+}
+.div-navbarpage ul li a {
+  color: pink;
+  text-decoration: none;
+}
+
+/* js css */
+
+.wrapp {
+}
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  width: 350px;
+  background-size: cover;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 7px 7px 12px rgba(0, 0, 0, 0.3);
+}
+.card img {
+  width: 250px;
+  height: 250px;
+}
