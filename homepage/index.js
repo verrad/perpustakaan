@@ -17,7 +17,8 @@ function renderBuku(data) {
 
   data.forEach((buku) => {
     container.innerHTML += `
-      <div class="card">
+ 
+      <div class="card" id="cardContainer">
         <img src="${buku.cover}">
         <div class="card-body">
           <span class="genre">${buku.genre}</span>
@@ -26,6 +27,7 @@ function renderBuku(data) {
           <p>Tahun: ${buku.tahun}</p>
         </div>
       </div>
+
     `;
   });
 }

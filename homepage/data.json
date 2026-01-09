@@ -5,7 +5,7 @@
     "penulis": "James Clear",
     "genre": "Self Improvement",
     "tahun": 2018,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/atomichabits.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "penulis": "Charles Duhigg",
     "genre": "Self Improvement",
     "tahun": 2012,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/the-power-of-habit.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "penulis": "Carol S. Dweck",
     "genre": "Self Improvement",
     "tahun": 2006,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/mindset.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "penulis": "Cal Newport",
     "genre": "Self Improvement",
     "tahun": 2016,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/deepwork.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "penulis": "Angela Duckworth",
     "genre": "Self Improvement",
     "tahun": 2016,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/grit.png"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "penulis": "Napoleon Hill",
     "genre": "Self Improvement",
     "tahun": 1937,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/thinkandgrowrich.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "penulis": "Stephen R. Covey",
     "genre": "Self Improvement",
     "tahun": 1989,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/the7habitsofhighlyeffectivepeople.png"
   },
   {
     "id": 8,
@@ -61,15 +61,15 @@
     "penulis": "Dale Carnegie",
     "genre": "Self Improvement",
     "tahun": 1936,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/howtowinfriendsandinfluencepeople.jpeg"
   },
   {
     "id": 9,
-    "judul": "The Subtle Art of Not Giving a F*ck",
+    "judul": "The Subtle Art of not Giving a Fuck",
     "penulis": "Mark Manson",
     "genre": "Self Improvement",
     "tahun": 2016,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/thesubtleartofnotgivingafuck.jpg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "penulis": "Robert T. Kiyosaki",
     "genre": "Self Improvement",
     "tahun": 1997,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/Rich-Dad-Poor-Dad.jpg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "penulis": "Andrea Hirata",
     "genre": "Novel",
     "tahun": 2005,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/laskarpelangi.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "penulis": "Tere Liye",
     "genre": "Novel",
     "tahun": 2014,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/bumi.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "penulis": "Pidi Baiq",
     "genre": "Novel",
     "tahun": 2014,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/dilan1990.jpg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "penulis": "Dee Lestari",
     "genre": "Novel",
     "tahun": 2009,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/perahukertas.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "penulis": "Ahmad Fuadi",
     "genre": "Novel",
     "tahun": 2009,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/negeri5menara.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "penulis": "Habiburrahman El Shirazy",
     "genre": "Novel",
     "tahun": 2004,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/ayatayatcinta.jpg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "penulis": "Tere Liye",
     "genre": "Novel",
     "tahun": 2016,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/hujan.jpg"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "penulis": "Ahmad Tohari",
     "genre": "Novel",
     "tahun": 1982,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/ronggengdukuhparuk.jpg"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "penulis": "Dee Lestari",
     "genre": "Novel",
     "tahun": 2001,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/supernova.jpg"
   },
   {
     "id": 20,
@@ -157,6 +157,6 @@
     "penulis": "Andrea Hirata",
     "genre": "Novel",
     "tahun": 2019,
-    "cover": "https://via.placeholder.com/300x200"
+    "cover": "img/orangorangbiasa.jpg"
   }
 ]
